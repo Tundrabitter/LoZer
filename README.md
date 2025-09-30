@@ -33,11 +33,11 @@ The LoZer tool expects logs in a format similar to the Common Log Format, but wi
 - Security reporting
 
 ## Installation
-git clone https://github.com/Tundrabitter/LoZer.git
-cd LoZer
-python3 -m venv venv
-source venv/bin/activate
-pip install faker
+- git clone https://github.com/Tundrabitter/LoZer.git
+- cd LoZer
+- python3 -m venv venv
+- source venv/bin/activate
+- pip install faker
 
 ## Project Structure
 - analyzer.py - Main analysis script
