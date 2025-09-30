@@ -43,7 +43,7 @@ The LoZer tool expects logs in a format similar to the Common Log Format, but wi
 - analyzer.py - Main analysis script
 - generate_logs.py - Log generation utility  
 - test_analyzer.py - Unit tests
-- sample_logs/ - Sample log files
+- sample_logs/access.log - Sample log file
 
 ## Legal Notice
 For educational purposes and authorized security testing only.
